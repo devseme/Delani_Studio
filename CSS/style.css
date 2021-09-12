@@ -1,4 +1,6 @@
-
+body{
+    font-family: 'Noto Serif', serif;
+}
 
 .header-landing{
     background-image: url(/images/h_img.jpg);
@@ -7,7 +9,6 @@
     background-repeat: no-repeat;
     text-align: center;
     color: white;
-    font-family: serif;
     padding-top: 15%;
 }
 .header-landing>h1{
@@ -29,7 +30,6 @@
     padding-top: 20px;
 }
 #about-us{
-    font-family: sans-serif;
     width: 95%;
     margin-left: 50px;
     text-align: center;
@@ -59,8 +59,6 @@
     
 }
 .services>p{
-
-    font-family: 'Gabriela', serif;
     margin-top: 30px;
     padding-top: 20px;
 }
@@ -71,7 +69,6 @@
 }
 .engagements{
     text-align: center;
-    font-family: 'Gabriela',serif;
     padding-top: 25px;
     padding-right: 50px;
     width: 90%;
@@ -116,7 +113,6 @@
 #portfolio{
     text-align: center;
     padding-top: 40px;
-    font-family: 'Gabriela' serif;
 }
 
 .contacts{
@@ -127,7 +123,6 @@
     text-align: center;
     color: white;
     width: 100%;
-    font-family: serif;
    
 }
 #form{
@@ -167,7 +162,7 @@ input placeholder{
     margin-top: 25px;
     padding-top: 35px;
     padding-bottom: 20px;
-    font-family:  serif;
+
 }
 button{
     margin-right: 500px;
@@ -189,15 +184,13 @@ button{
   }
   footer{
     text-align: center;
-    padding-top: 30px;
-    font-family: 'Delius Swash Caps', cursive;
+    padding-top: 30px
   }
   footer p{
     margin-top: 10px;
   }
   #design, #development, #products{
     display: none;
-    font-family: 'Copse', serif;
     font-size: 16px;
   }
   html{
