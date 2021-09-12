@@ -3,8 +3,7 @@
 #### This is my IP3 for prep module at Moringa school
 #### By **Ochenge Ian**
 ## Description
-This is a simple landing page for a site that accepts a user to input his/her date of birth,and gives the user his/her Akan name.
-Akan names are derived from Ghanian culture.Children are given their first names as a 'day name'.This name corresponds to the day of the week in which they were born.
+This is a simple landing page for a  studio website(Delani studio) showing their work to prospective clients.It also allows users to send messages to the admin via forms.
 ## Setup/Installation Requirements
 * [Fork my code](https://github.com/devseme/Delani_Studio.git) on your terminal and run the project in your files and code editor.
 * Also run my deployed project at [Deloyed-page](https://devseme.github.io/Delani_Studio/)
