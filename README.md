@@ -27,7 +27,7 @@ On Contact Us Section ,Enter your name if you want to leave a message ['Ian'] na
 ## Known Bugs
 running the given deployed link on browser,some background images may not show.
 ## Technologies Used
-HTML,CSS,Javascript,bootstrap
+HTML,CSS,Javascript,Bootstrap
 ## Support and contact details
 ian.ochenge@student.moringaschool.com
 ### License
