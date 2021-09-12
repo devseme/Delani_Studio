@@ -1,6 +1,6 @@
 # Delani Studio Website
 
-#### This is my IP2 for prep module at Moringa school
+#### This is my IP3 for prep module at Moringa school
 #### By **Ochenge Ian**
 ## Description
 This is a simple landing page for a site that accepts a user to input his/her date of birth,and gives the user his/her Akan name.
