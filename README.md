@@ -9,6 +9,8 @@ Akan names are derived from Ghanian culture.Children are given their first names
 * [Fork my code](https://github.com/devseme/Ghana-Akan-Naming-website.git) on your terminal and run the project in your files and code editor.
 * Also run my deployed project at [Deloyed-page](https://devseme.github.io/Ghana-Akan-Naming-website/)
 ## BEHAVIOURAL DRIVEN DEVELOPMENT
+
+On what we do  section and portfolio images reveals more description ,Enter your name if you want to leave a message ['Ian'] name = 'Ian' Enter Email && Message ['Email','Message'] Email && Message Submit Email && Message 'Hi Ian,we have received your message. Thank you for reaching out to us.'
 1.Form displays in which a user enters date and gender.
  
  * INPUT-A user entershis/her gender.
