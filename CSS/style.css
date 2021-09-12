@@ -1,0 +1,16 @@
+
+
+.header-landing{
+    background-image: url(/images/h_img.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    font-family: serif;
+    padding-top: 15%;
+}
+.header-landing>h1{
+    padding: 5px;
+    margin:5px;
+}
