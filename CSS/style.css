@@ -25,8 +25,8 @@
 }
 #mouse{
     padding-bottom: 20px;
-    margin-top: 15%;
-    padding-top: 25px;
+    margin-top: 12%;
+    padding-top: 20px;
 }
 #about-us{
     font-family: sans-serif;
@@ -121,12 +121,14 @@
 
 .contacts{
     background-image: url(/images/c_image.jpg);
-    background-position: center center;
+    background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
     color: white;
-    align-items: center;
+    width: 100%;
+    font-family: serif;
+   
 }
 #form{
     width:100%
@@ -192,4 +194,12 @@ button{
   }
   footer p{
     margin-top: 10px;
+  }
+  #design, #development, #products{
+    display: none;
+    font-family: 'Copse', serif;
+    font-size: 16px;
+  }
+  html{
+      scroll-behavior: smooth;
   }
