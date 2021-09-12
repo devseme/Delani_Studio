@@ -7,10 +7,11 @@ This is a simple landing page for a site that accepts a user to input his/her da
 Akan names are derived from Ghanian culture.Children are given their first names as a 'day name'.This name corresponds to the day of the week in which they were born.
 ## Setup/Installation Requirements
 * [Fork my code](https://github.com/devseme/Delani_Studio.git) on your terminal and run the project in your files and code editor.
-* Also run my deployed project at [Deloyed-page](https://devseme.github.io/Ghana-Akan-Naming-website/)
+* Also run my deployed project at [Deloyed-page](https://devseme.github.io/Delani_Studio/)
 ## BEHAVIOURAL DRIVEN DEVELOPMENT
 
 On Contact Us Section ,Enter your name if you want to leave a message ['Ian'] name = 'Ian' Enter Email && Message ['Email','Message'] Email && Message Submit Email && Message 'Hi Ian,we have received your message. Thank you for reaching out to us.'
+
 1.Form displays in which a user enters name and email.
  
  * INPUT-A user entershis/her name,email and message.
