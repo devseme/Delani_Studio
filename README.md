@@ -10,24 +10,24 @@ Akan names are derived from Ghanian culture.Children are given their first names
 * Also run my deployed project at [Deloyed-page](https://devseme.github.io/Ghana-Akan-Naming-website/)
 ## BEHAVIOURAL DRIVEN DEVELOPMENT
 
-On what we do  section and portfolio images reveals more description ,Enter your name if you want to leave a message ['Ian'] name = 'Ian' Enter Email && Message ['Email','Message'] Email && Message Submit Email && Message 'Hi Ian,we have received your message. Thank you for reaching out to us.'
-1.Form displays in which a user enters date and gender.
+On Contact Us Section ,Enter your name if you want to leave a message ['Ian'] name = 'Ian' Enter Email && Message ['Email','Message'] Email && Message Submit Email && Message 'Hi Ian,we have received your message. Thank you for reaching out to us.'
+1.Form displays in which a user enters name and email.
  
- * INPUT-A user entershis/her gender.
- * OUTPUT-a user gets to see his/her Akan name
+ * INPUT-A user entershis/her name,email and message.
+ * OUTPUT-a user gets alert for confirmation of message received
  
-2.Displays error message if date form left blank
+2.Displays error message if wrong details entered
    * INPUT- ""
-   * OUTPUT- input required/NaN
+   * OUTPUT- please enter your name and email
    
-3.Displays error message if Gender not choosen
+3.Displays error message if details  not  entered
   * INPUT- ""
-  * OUTPUT- Displays error message  
+  * OUTPUT- Please fill out this field
     
 ## Known Bugs
-running the given function on JS File
+running the given deployed link on browser,some background images may not show.
 ## Technologies Used
-HTML,CSS,Javascript
+HTML,CSS,Javascript,bootstrap
 ## Support and contact details
 ian.ochenge@student.moringaschool.com
 ### License
