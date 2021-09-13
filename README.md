@@ -25,7 +25,7 @@ On Contact Us Section ,Enter your name if you want to leave a message ['Ian'] na
   * OUTPUT- Please fill out this field
     
 ## Known Bugs
-running the given deployed link on browser,some background images may not show.
+Running the given deployed link on browser,some background images may not show.
 ## Technologies Used
 HTML,CSS,Javascript,Bootstrap
 ## Support and contact details
