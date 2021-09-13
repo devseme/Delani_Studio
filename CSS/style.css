@@ -96,24 +96,16 @@ body{
      flex-direction: row;
      flex-wrap: wrap;
      width:100%;
-     justify-content: space-around;
+     justify-content: space-between;
+     height: 800px;
      
      
 }
-#shadow3{
-        text-align: centre;
-        margin-top: 10px;
-       
-    
-      }
 .class{
-    width: 21%;
-    padding: px;
+    width: 21.5%;
+    
 }
-#portfolio{
-    text-align: center;
-    padding-top: 40px;
-}
+
 
 .contacts{
     background-image: url(/images/c_image.jpg);
