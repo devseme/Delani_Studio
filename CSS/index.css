@@ -115,6 +115,7 @@ body{
     background-color: white;
     height: 10vh;
     width:15vw;
+    display: none;
   }
 #portfolio{
    text-align: center; 
