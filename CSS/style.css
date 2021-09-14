@@ -1,7 +1,13 @@
 body{
     font-family: 'Noto Serif', serif;
-}
+    margin: 0px;
 
+}
+html{
+    box-sizing: content-box;
+
+
+}
 .header-landing{
     background-image: url("../images/h_img.jpg");
     background-position: center center;
@@ -93,7 +99,14 @@ body{
      width:100%;
      justify-content: space-around;
      cursor: pointer;
+     margin: 0px;
+     padding: 0px;
+     background-color: red;
      
+}
+.portfolio-page>img{
+    width: 50px;
+    height: 50px;
 }
 
 .class{
@@ -108,16 +121,17 @@ body{
 }
 
 .contacts{
-    background-image: url("../images/c_image.jpg");
-    background-position: center;
-    background-size: cover;
+     background-image: url("../images/c_image.jpg");
+     background-position: center;
+     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
     color: white;
-    width: 100%;
-    margin-left: 10px;
+    width: 100vw;
+    margin:0;
+    margin-left: -3vw;
+    margin-right: -7vw;
     
-   
 }
 #form{
     width:100%
